@@ -19,6 +19,6 @@ def speak_to_grandma(phrase)
   elsif phrase == phrase upcase
     puts "NO, NO SINCE 1938"
   else
-    puts anwser
+    anwser
   end
 end
