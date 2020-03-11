@@ -15,10 +15,10 @@
 def speak_to_grandma(phrase)
   answer = "HUH?! SPEAK UP, SONNY"
   if phrase == "I LOVE YOU GRANDMA!"
-    puts "I LOVE YOU PUMPKIN"
+    return "I LOVE YOU PUMPKIN"
   elsif phrase == phrase upcase
-    puts "NO, NO SINCE 1938"
+    return "NO, NO SINCE 1938"
   else
-    anwser
+    return anwser
   end
 end
