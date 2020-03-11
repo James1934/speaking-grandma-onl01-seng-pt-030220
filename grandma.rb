@@ -11,3 +11,14 @@
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
+
+def speak_to_grandma(phrase)
+  answer = "HUH?! SPEAK UP, SONNY"
+  if phrase == "I LOVE YOU GRANDMA!"
+    puts "I LOVE YOU PUMPKIN"
+  elsif phrase == phrase upcase
+    puts "NO, NO SINCE 1938"
+  else
+    puts anwser
+  end
+end
